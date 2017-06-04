@@ -6,7 +6,7 @@ layouts_dir: ./_layouts
 data_dir: ./_data
 includes_dir: ./_includes
 collections: null
-
+# Deprecation
 # Handling Reading
 safe: false
 include: [".htaccess"]
@@ -73,7 +73,7 @@ iLotus:
 title: SamSong
 subTitle: Just another Jekyll blog.
 description: 这是 Sam Song 的博客。它是基于 Jekyll 搭建起来的。这里感谢 PIZn 提供的模板。
-url: http://localhost:4000
+url: http://127.0.0.1:4000/
 feed: /feed.xml
 
 #菜单配置
@@ -108,7 +108,7 @@ page:
     last: true
   - text: 关于我
     url: /contact.html
-    last: false
+    last: true
 
 author:
-  name: PIZn
+  name: SamSong
