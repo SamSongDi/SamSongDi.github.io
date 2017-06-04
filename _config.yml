@@ -73,7 +73,7 @@ iLotus:
 title: SamSong
 subTitle: Just another Jekyll blog.
 description: 这是 Sam Song 的博客。它是基于 Jekyll 搭建起来的。这里感谢 PIZn 提供的模板。
-url: http://127.0.0.1:4000/
+url: https://SamSongDi.com
 feed: /feed.xml
 
 #菜单配置
