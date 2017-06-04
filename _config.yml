@@ -36,7 +36,7 @@ incremental: false
 detach: false
 port: 4000
 host: 127.0.0.1
-baseurl: "https://github.com/SamSongDi/SamSongBlog001.github.io/tree/master/static/" # does not include hostname
+baseurl: "" # does not include hostname
 
 # Outputting
 permalink: date
