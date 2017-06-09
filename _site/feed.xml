@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>SamSong</title>
+        <description>这是 Sam Song 的博客。它是基于 Jekyll 搭建起来的。这里感谢 PIZn 提供的模板。</description>
+        <link>http://localhost:4000</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>五月小结</title>
+                
+                    <dc:creator>SamSong</dc:creator>
+                
+                
+                    <description>&lt;p&gt;#五月总结&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Thu, 25 May 2017 00:00:00 +0800</pubDate>
+                <link>http://localhost:4000/2017/05/25/%E4%BA%94%E6%9C%88%E5%B0%8F%E7%BB%93.html</link>
+                <guid isPermaLink="true">http://localhost:4000/2017/05/25/%E4%BA%94%E6%9C%88%E5%B0%8F%E7%BB%93.html</guid>
+            </item>
+        
+            <item>
+                <title>四月小结</title>
+                
+                    <dc:creator>SamSong</dc:creator>
+                
+                
+                    <description>&lt;p&gt;#四月总结&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Sun, 23 Apr 2017 00:00:00 +0800</pubDate>
+                <link>http://localhost:4000/2017/04/23/%E5%9B%9B%E6%9C%88%E5%B0%8F%E7%BB%93.html</link>
+                <guid isPermaLink="true">http://localhost:4000/2017/04/23/%E5%9B%9B%E6%9C%88%E5%B0%8F%E7%BB%93.html</guid>
+            </item>
+        
+    </channel>
+</rss>
