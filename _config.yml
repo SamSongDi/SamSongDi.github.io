@@ -32,11 +32,11 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# Serving
-detach: false
-port: 4000
-host: 127.0.0.1
-baseurl: "" # does not include hostname
+# # Serving
+# detach: false
+# port: 4000
+# host: 127.0.0.1
+# baseurl: "" # does not include hostname
 
 # Outputting
 permalink: date
@@ -95,7 +95,7 @@ nav:
   #   icon: icon-heart
   #   class: none
   - text: 博客源代码
-    url: https://github.com/pizn/iLotus
+    url: https://github.com/SamSongDi
     icon: icon-github
     class: none
 
@@ -111,4 +111,4 @@ page:
     last: false
 
 author:
-  name: PIZn
+  name: SamSong
