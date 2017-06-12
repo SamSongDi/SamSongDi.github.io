@@ -73,7 +73,7 @@ iLotus:
 title: SamSong
 subTitle: Hello World
 description: 这个网站基于Jekyll搭建。
-url: http://localhost:4000
+url: http://samsongdi.com
 feed: /feed.xml
 
 #菜单配置
